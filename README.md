@@ -1,1 +1,1 @@
-https://www.howtographql.com/
+https://amoq.hatenablog.com/
