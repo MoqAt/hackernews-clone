@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "graphql-yoga": "^1.16.9",
-    "prisma": "^1.23.2"
+    "graphql-yoga": "^1.16.9"
   }
 }
